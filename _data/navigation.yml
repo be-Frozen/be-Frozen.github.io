@@ -6,17 +6,23 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Patent"
+    url: "/#-patent"
+
+  - title: "Research Background"
+    url: "/#-research-background"
+
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+
+  - title: "Selected Projects"
+    url: "/#-selected-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Hobbies"
+    url: "/#-hobbies"
