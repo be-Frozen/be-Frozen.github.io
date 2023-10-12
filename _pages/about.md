@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a senior student in the [School of Computer and Electronic Information/School of Artificial Intelligence](http://schools.njnu.edu.cn/computer/) at Nanjing Normal University. My primary research interests include Human Computer Interaction, AI, Data Science, and Visualization. If you are seeking any form of **academic cooperation**, please feel free to email me at [isguodong.chen@outlook.com](mailto:isguodong.chen@outlook.com).
 
-At Nanjing Normal University, I'm fortunate to work as a research assistant in Data-Driven XR Visualization Group led by Professor [Richen Liu (刘日晨)](https://dabigtou.github.io/richenliu/) and Computer Vision and Pattern Recognition Lab led by Professor [Fengyi Song (宋凤义)](http://schools.njnu.edu.cn/computer/person/fengyi-song). Click here to view my [CV](https://be-Frozen.github.io/files/Guodong_Chen_CV_Final 10_9.pdf).
+At Nanjing Normal University, I'm fortunate to work as a research assistant in Data-Driven XR Visualization Group led by Professor [Richen Liu (刘日晨)](https://dabigtou.github.io/richenliu/) and Computer Vision and Pattern Recognition Lab led by Professor [Fengyi Song (宋凤义)](http://schools.njnu.edu.cn/computer/person/fengyi-song). Click here to view my [CV](https://be-Frozen.github.io/files/Guodong_Chen_CV 10_12.pdf).
 
 # 🔥 News
 
@@ -51,37 +51,43 @@ Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, Xiaojian Chen, **Guodong Chen**, Rongxi
 
 *Participant, Co-supervised by Prof. Maheswaran (McGill University) and Prof. Franchitti (New York University)*
 
-- Reviewed extensive journal publications concerning Docker container concepts and familiarized myself with the fundamental concepts such as instantiation and management;
+- Reviewed appropriate technical journals relating to Docker container concepts and familiarized myself with fundamental concepts such as instantiation and management;
 
-- Created and managed a mini-cloud resource manager containing 8 containers to process extensive datasets exceeding 1,000,000 records in cloud computing environments;
+- Created and managed a mini-cloud resource manager for 8 containers;
 
-- Incorporated TensorFlow machine learning libraries into the derived system noted above to enable linear regressionmodeling on sample datasets.
+- Processed datasets comprising more than 1,000,000 records in cloud computing environments;
+
+- Incorporated TensorFlow machine learning libraries to facilitate linear regression modeling of sample datasets.
+
 
 **Automated Hierarchical Object Detection Method for Fine Annotation of Subcomponents**, *Sept. 2022 - Mar. 2023* 
 
-*Nanjing Normal University*
+*Nanjing Normal University, Nanjing, China*
 
 *Research Assistant, Supervised by Prof. Fengyi Song*
 
-- Reviewed extensive hierarchical object detection papers;
+- Reviewed extensive academic literature concerning hierarchical object detection;
 
-- Built a deep-learning model (based on Faster RCNN) that analyzes hierarchical relationships between data of objects for object detection and evaluated the model’s performance using our physics experiment dataset;
+- Built a deep-learning model using Faster RCNN to analyze hierarchical data relationships between for object detection;
 
-- Optimized the model and reduced missed detections and false alarms for small objects by 7% percent;
+- Evaluated performance of the derived model in relation to the experimental physics dataset;
 
-- Assessed the model’s performance (including latency, mAP, Quality of Experience, etc.) for small object detection.
+- Optimized the model by reducing small object missed detections and false alarms by 7% percent;
 
-**Interactive Visualization of Biomedical Data in both Immersive Environment & Extended Reality (XR)**, *Oct. 2021 - Sept. 2022*
+- Assessed small object detection performance specifications of the derived model, including latency, mAP, Quality of Experience, etc. 
+
+
+**Interactive Visualization of Biomedical Data in Both Immersive Environment and Extended Reality (XR)**, *Oct. 2021 - Sept. 2022*
 
 *Data-Driven XR Visualization Group, Nanjing Normal University* 
 
 *Research Assistant, Supervised by Prof. Richen Liu*
 
-- Developed an immersive platform (in virtual reality) for medical diagnostics and transformed computerized topography inspection reports into 3D medical volume data. 
+- Developed an immersive virtual reality platform for medical diagnostics by converting computerized inspection reports into 3D medical volume data; 
 
-- Implemented advanced gesture-recognition technology to the project and realized touchless control of both angles and locations of volumetric medical data for viewing.
+- Implemented advanced gesture-recognition technology and touchless control to manipulate angles and locations of volumetric medical data for visualization;
 
-- Developed a system to support MR (Mixed Reality) medical diagnosis.
+- Developed a system to enhance MR (Mixed Reality) medical diagnosis.
 
 **Interactive Multi-user Medical Visualization and Immersive Volume Rendering**, May. *2021 - Dec. 2021*
 
@@ -89,11 +95,14 @@ Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, Xiaojian Chen, **Guodong Chen**, Rongxi
 
 *Research Assistant, Supervised by Prof. Richen Liu*
 
-- Optimized a ray-casting algorithm and then deployed the derived algorithm to immersive environments for 3d medical volumetric data interpretation;
+- Optimized and deployed a ray-casting algorithm for immersive 3D environment medical volumetric data interpretation;
 
-- Implemented a track seeding algorithm (based on the continuous scale space theory) to facilitate 2D to 3d imaging migration;
+- Implemented a track seeding algorithm based on continuous scale space theory to facilitate 2D to 3D imaging migration;
 
-- Generated 3D textures from the seeding algorithm subsequent to multi-user interactions and then tested multi-user rendering of 3D volumetric data in an immersive environment.
+- Generated 3D textures using the seeding algorithm subsequent to multi-user interactions;
+
+- Tested multi-user rendering of 3D volumetric data in the derived immersive environment.
+
 
 # 👨‍🎓 Teaching Experience
 
@@ -104,31 +113,33 @@ Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, Xiaojian Chen, **Guodong Chen**, Rongxi
 
 **[Cracking Wordle: Predicting Wordle Results](https://github.com/be-Frozen/Cracking-Wordle)** 
 
-*A Solution to the Problem C of 2023 MCM/ICM*
+*Resolution of Problem C, 2023 Mathematical Contest in Modeling (MCM)*
 
-- Developed Prophet, Multilayer Perceptron, and K-Means Clustering models to forecast future Wordle results and associated percentage scores, as well as to categorize word difficulty; achieved high accuracy, especially for predicting word difficulty, reaching close to 90% precision.
+- Developed Prophet, Multilayer Perceptron, and K-Means Clustering models to forecast future Wordle results by categorizing word difficulty to predict score results accordingly;
 
-- Designed an innovative Normal Distribution Principle Components Analysis algorithm to ensure the accuracy of the models noted above.
+- Achieved rates of almost 90% in terms of predictive accuracy relatve to word difficulty;
 
-- Awarded Meritorious Winner award in 2023 MCM/ICM.
+- Designed an innovative Normal Distribution Principle Components Analysis algorithm to retain predictive model accuracy
+
 
 **[Agridentify: Agricultural Object Detection Model Based on PP-YOLOE+ and Copy-Paste](https://aistudio.baidu.com/projectdetail/5726879)** 
 
 *18th National University Student Intelligent Vehicle Competition*
 
-- Developed an agricultural object detection model (using PaddlePaddle-YOLOE+) and trained the model on a dataset of 8 types of agricultural objects with 4770 samples.
+- Developed an agricultural object detection model using PaddlePaddle-YOLOE+;
 
-- Utilized Copy-Paste data augmentation to improve detection accuracy from 85% to around 95%.
+- Trained the model using a dataset including 8 types of agricultural objects and a total of 4770 samples;
 
-- Achieved a top-10% finish during the competition with a best F1-score of 0.98913, with an F1-score within 0.005 of the winning team.
+- Utilized copy-paste data augmentation to improve detection accuracy from 85% to approximately 95%;
+
+- Achieved a top-10% ranking during the competition with an F1-score of 0.98913 (i.e., within 0.005 of the top ranked competing team).
+
 
 **[VueForum: a BBS forum with PHP front-end and Vue framework back-end](https://github.com/be-Frozen/XDBBS)** 
 
 *Team Leader, Software Engineering Course project*
 
-- Developed a functional forum website with user interaction capabilities and implemented the back-end functions using Vue framework and integrated MySQL database access.
-
-- Earned an A+ grade for the course.
+- Developed a functional forum website with user interaction capabilities by implementing back-end Vue framework functions with integrated MySQL database access.
 
 # 🎖 Honors and Awards
 
@@ -144,11 +155,13 @@ Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, Xiaojian Chen, **Guodong Chen**, Rongxi
 
 Football, Game Design, Video Editing
 
+I did Mathematical Olympiad in high school.
+
 # 🗺 Map of Visitors
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=5mBmdKPFJ0xWDDQbhq0UR0fCSOwFOOVqpCB-cCobtfU'></script>
 
-<p style="text-align:right;font-size:small;" >Last updated: Oct. 10, 2023</p>
+<p style="text-align:right;font-size:small;" >Last updated: Oct. 12, 2023</p>
 
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
