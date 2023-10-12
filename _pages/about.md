@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a senior student in the [School of Computer and Electronic Information/School of Artificial Intelligence](http://schools.njnu.edu.cn/computer/) at Nanjing Normal University. My primary research interests include Human Computer Interaction, AI, Data Science, and Visualization. If you are seeking any form of **academic cooperation**, please feel free to email me at [isguodong.chen@outlook.com](mailto:isguodong.chen@outlook.com).
 
-At Nanjing Normal University, I'm fortunate to work as a research assistant in Data-Driven XR Visualization Group led by Professor [Richen Liu (刘日晨)](https://dabigtou.github.io/richenliu/) and Computer Vision and Pattern Recognition Lab led by Professor [Fengyi Song (宋凤义)](http://schools.njnu.edu.cn/computer/person/fengyi-song). Click here to view my [CV](https://be-Frozen.github.io/files/Guodong_Chen_CV 10_12.pdf).
+At Nanjing Normal University, I'm fortunate to work as a research assistant in Data-Driven XR Visualization Group led by Professor [Richen Liu (刘日晨)](https://dabigtou.github.io/richenliu/) and Computer Vision and Pattern Recognition Lab led by Professor [Fengyi Song (宋凤义)](http://schools.njnu.edu.cn/computer/person/fengyi-song). Click here to view my [CV](https://be-Frozen.github.io/files/Guodong_Chen_CV_10_12.pdf).
 
 # 🔥 News
 
