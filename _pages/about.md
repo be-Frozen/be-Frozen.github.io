@@ -59,10 +59,9 @@ Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, Xiaojian Chen, **Guodong Chen**, Rongxi
 
 - Incorporated TensorFlow machine learning libraries to facilitate linear regression modeling of sample datasets.
 
+**Automated Hierarchical Object Detection Method for Fine Annotation of Subcomponents**, *Feb. 2023 - Jun. 2023* 
 
-**Automated Hierarchical Object Detection Method for Fine Annotation of Subcomponents**, *Sept. 2022 - Mar. 2023* 
-
-*Nanjing Normal University, Nanjing, China*
+*Computer Vision and Pattern Recognition Lab, Nanjing Normal University*
 
 *Research Assistant, Supervised by Prof. Fengyi Song*
 
@@ -76,8 +75,7 @@ Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, Xiaojian Chen, **Guodong Chen**, Rongxi
 
 - Assessed small object detection performance specifications of the derived model, including latency, mAP, Quality of Experience, etc. 
 
-
-**Interactive Visualization of Biomedical Data in Both Immersive Environment and Extended Reality (XR)**, *Oct. 2021 - Sept. 2022*
+**Interactive Visualization of Biomedical Data in Both Immersive Environment and Extended Reality (XR)**, *Oct. 2021 - Sep. 2022*
 
 *Data-Driven XR Visualization Group, Nanjing Normal University* 
 
@@ -161,7 +159,7 @@ I did Mathematical Olympiad in high school.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=5mBmdKPFJ0xWDDQbhq0UR0fCSOwFOOVqpCB-cCobtfU'></script>
 
-<p style="text-align:right;font-size:small;" >Last updated: Oct. 12, 2023</p>
+<p style="text-align:right;font-size:small;" >Last updated: Nov. 22, 2023</p>
 
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
